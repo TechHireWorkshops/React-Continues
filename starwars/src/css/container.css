@@ -1,0 +1,20 @@
+.card-container {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
+.card-container a {
+  width: 21%;
+  color: black;
+  margin-bottom: 2vh;
+  height: 30vh;
+}
+
+.container h1 {
+  text-decoration: underline;
+}
+
+.container {
+  border-bottom: 2px solid black;
+}

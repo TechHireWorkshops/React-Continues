@@ -1,0 +1,14 @@
+.app {
+  text-align: center;
+}
+
+.hero {
+  width: 100vw;
+  height: 30vh;
+  object-fit: cover;
+}
+
+a {
+  color: blue;
+  margin: 0 2vw;
+}
