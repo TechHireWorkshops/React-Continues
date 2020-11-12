@@ -14,7 +14,7 @@ We also learned a bit about the component lifecycle, and how we can run function
 
 Let's practice!
 
-##Our App
+## Our App
 
 Today we'll be building an app similar to the one we made in the last lessons.  Let's see what it looks like and figure out what components we need, and how to organize them.
 
