@@ -66,7 +66,7 @@ We don't need to write out the full url we want to redirect the user to, just wh
 
 Now that we can control the url of the page we're on, we also need to be able to respond to it.  Route is how we can do that.  We can think of Route very similar to how we use conditional rendering.  When Route detects a certain url, it renders the components or elements inside of it.  An example:
 
-	<Route path='/characters'
+	<Route path='/characters'>
 		<CharactersPage/>
 	</Route>
 	
